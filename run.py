@@ -59,7 +59,7 @@ def main():
     while True:
         user_query = input("Enter your financial question (or type 'exit' to quit): ")
         if user_query.lower() == 'exit':
-            print("Goodbye!")
+            print("Goodbye!")quit
             break
 
         # Get response from ChatGPT
