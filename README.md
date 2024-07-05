@@ -22,7 +22,7 @@ ChatVRM mainly uses the following technologies:
 Clone or download this repository to run locally.
 
 ```bash
-git clone https://github.com/zoan37/ChatVRM.git
+git clone [https://github.com/adas598/jajathon-vr-banking-assistant.git]
 ```
 
 Please install the required packages.
