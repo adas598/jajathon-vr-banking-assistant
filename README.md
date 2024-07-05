@@ -5,26 +5,18 @@ A virtual genAI financial assistant
 
 <img src="public/ogp-en.png" width="600">
 
-[This repo was cloned and modified from [ChatVRM-jp](https://github.com/zoan37/ChatVRM-jp), which is a fork of [@pixiv/ChatVRM](https://github.com/pixiv/ChatVRM).]
-
 ChatVRM is a demo application that allows you to easily talk with a 3D character in your browser.
 
 By importing VRM files, you can adjust the voice to match the character, and generate responses that include emotional expressions.
 
-ChatVRM mainly uses the following technologies.
+ChatVRM mainly uses the following technologies:
 
-- Generate response text
-    - [Window AI](https://windowai.io/)
 - User speech recognition
     - [Web Speech API (SpeechRecognition)](https://developer.mozilla.org/ja/docs/Web/API/SpeechRecognition)
 - Text to speech
     - [ElevenLabs](https://beta.elevenlabs.io/)
 - Displaying 3D characters
     - [@pixiv/three-vrm](https://github.com/pixiv/three-vrm)
-
-
-
-
 
 ## Execution
 Clone or download this repository to run locally.
@@ -47,15 +39,7 @@ After execution, access the following URL.
 
 [http://localhost:3000](http://localhost:3000) 
 
-
 ---
-
-## Window AI
-
-ChatVRM uses Window AI to generate responses.
-
-- [https://windowai.io/](https://windowai.io/)
-
 
 ## ElevenLabs
 ChatVRM uses ElevenLabs API to do text to speech.
