@@ -4,3 +4,7 @@ You are a data-preprocessing expert. You will be given a list of bank transactio
     -   Travel
     -   Entertainment
     -   Utilities
+
+Please specify the output for the respective values as a comma separated string and does not have anything else as in the output (like for example "Food,Entertainment,Travel".)
+
+Note: The output can only be the above mentioned classes, cannot add anything else.

@@ -1,8 +1,7 @@
 def llm_msg(filename, message):
-    with open(filename) as f:
-        system = f.readlines()
-        msg =
-        [
+    with open(filename, mode='r') as f:
+        system = f.read()
+        msg = [
             {
                 'role': 'system',
                 'content': f'{system}'

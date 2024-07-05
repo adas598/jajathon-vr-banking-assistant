@@ -7,12 +7,12 @@ with open("README.md", "r") as fh:
 setup(
     name="jajathon",  # Replace with your project name
     version="0.1.0",  # Replace with your project version
-    author="Your Name",  # Replace with your name
-    author_email="your.email@example.com",  # Replace with your email
-    description="A brief description of your project",
+    author="Ayush Das",  # Replace with your name
+    author_email="das.ayushac@gmail.com",  # Replace with your email
+    description="A GenAI based Mixed Reality Virtual banking assistant",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/your_username/your_project_name",  # Replace with the URL of your project
+    url="https://github.com/adas598/jajathon-vr-banking-assistant.git",  # Replace with the URL of your project
     packages=find_packages(),  # Automatically find packages in your project
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -23,7 +23,6 @@ setup(
     install_requires=[
         # List your project dependencies here.
         # You can use the content of your requirements.txt file
-        "package1",
-        "package2",
+        "openai==1.14.2",
     ],
 )
