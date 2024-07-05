@@ -3,9 +3,7 @@ A virtual genAI financial assistant
 
 # ChatVRM
 
-<img src="https://github.com/zoan37/ChatVRM/blob/9d50c106cb971e9ef53cfff22e6ea9d75d61fe69/public/ogp-en.png" width="600">
-
-**Discord:** https://discord.gg/7KkS3r5hGK
+<img src="/ogp-en.png">
 
 [This repo was cloned from [ChatVRM-jp](https://github.com/zoan37/ChatVRM-jp), which is a fork of [@pixiv/ChatVRM](https://github.com/pixiv/ChatVRM).]
 
@@ -23,14 +21,6 @@ ChatVRM mainly uses the following technologies.
     - [ElevenLabs](https://beta.elevenlabs.io/)
 - Displaying 3D characters
     - [@pixiv/three-vrm](https://github.com/pixiv/three-vrm)
-
-
-## Demo
-
-A demo is available at Vercel.
-
-[https://chat-vrm-window.vercel.app/](https://chat-vrm-window.vercel.app/)
-
 
 ## Execution
 Clone or download this repository to run locally.
