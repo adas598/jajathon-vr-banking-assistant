@@ -4,4 +4,8 @@
 
 Using chatVRM and ChatGPT API, Virtual genAI provides personal virtual customer service, supporting chat/ voice conversation interactively.
 
+CHatGPT API call can summarised transaction history into classifications such as "Eat,,," reducing server storage and load.
+
+
+
 
