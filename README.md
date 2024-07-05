@@ -1,11 +1,11 @@
 # JaJathon: GenAI based Virtual banking assistant
 A virtual genAI financial assistant 
 
-# ChatVRM
+## ChatVRM
 
 <img src="public/ogp-en.png" width="600">
 
-[This repo was cloned from [ChatVRM-jp](https://github.com/zoan37/ChatVRM-jp), which is a fork of [@pixiv/ChatVRM](https://github.com/pixiv/ChatVRM).]
+[This repo was cloned and modified from [ChatVRM-jp](https://github.com/zoan37/ChatVRM-jp), which is a fork of [@pixiv/ChatVRM](https://github.com/pixiv/ChatVRM).]
 
 ChatVRM is a demo application that allows you to easily talk with a 3D character in your browser.
 
