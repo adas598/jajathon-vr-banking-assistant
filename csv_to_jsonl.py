@@ -10,7 +10,8 @@ def csv_to_jsonl(csv_file_path, jsonl_file_path):
                 "date_of_transaction": row[0],
                 "amount": float(row[1]),
                 "description": row[2],
-                "account_balance": float(row[3])
+                "account_balance": float(row[3]),
+                "category": row[4]
             }
             jsonl_file.write(json.dumps(record) + '\n')
 
